@@ -10,3 +10,15 @@
 [submodule "multithread_pool_server"]
 	path = multithread_pool_server
 	url = https://github.com/rsthopaz/multithread_pool_server.git
+[submodule "multithread-multiprocess_pool_client_upload"]
+	path = multithread-multiprocess_pool_client_upload
+	url = https://github.com/rsthopaz/multithread-multiprocess_pool_client_upload
+[submodule "multithread-multiprocess_pool_server_upload"]
+	path = multithread-multiprocess_pool_server_upload
+	url = https://github.com/rsthopaz/multithread-multiprocess_pool_server_upload
+[submodule "multithread-multiprocess_pool_server_download"]
+	path = multithread-multiprocess_pool_server_download
+	url = https://github.com/rsthopaz/multithread-multiprocess_pool_server_download
+[submodule "multithread-multiprocess_pool_client_download"]
+	path = multithread-multiprocess_pool_client_download
+	url = https://github.com/rsthopaz/multithread-multiprocess_pool_client_download
