@@ -1,0 +1,12 @@
+[submodule "multiprocess_client"]
+	path = multiprocess_client
+	url = https://github.com/rsthopaz/multiprocess_client.git
+[submodule "multiprocess_server"]
+	path = multiprocess_server
+	url = https://github.com/rsthopaz/multiprocess_server.git
+[submodule "multithread_pool_client"]
+	path = multithread_pool_client
+	url = https://github.com/rsthopaz/multithread_pool_client.git
+[submodule "multithread_pool_server"]
+	path = multithread_pool_server
+	url = https://github.com/rsthopaz/multithread_pool_server.git
